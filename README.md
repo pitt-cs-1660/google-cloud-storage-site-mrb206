@@ -1,5 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
 # CS1660 Static Website Project
+Link to my site
+- https://storage.googleapis.com/mrb206-cs1660-static-website/index.html
 
+Load Balancer IP:Port  
+- HTTPS 
+  - 34.49.69.247:443 
+- HTTP
+  - 34.49.69.247:80 
 ## Project Requirements
 - Google Cloud Platform (GCP) account
   - your educational credits are assigned via [Canvas](https://canvas.pitt.edu/courses/233982/discussion_topics/1232466)
